@@ -1,0 +1,10 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "",
+    "FUNCTIONS_WORKER_RUNTIME": "python",
+    "CLIENT_ID":"YOUR_SPN_CLIENTID",
+    "AUTHORITY":"https://login.microsoftonline.com/4d8fcd6a-5c69-45ca-9b67-e94092022f14",
+    "CLIENT_CRED":"YOUR_SPN_SECRET"
+  }
+}
